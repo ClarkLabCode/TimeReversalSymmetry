@@ -1,0 +1,16 @@
+2022/08_09/14_33_50
+/home/psychorig3/psycho5/paramfiles/Nathan/movingEdges_spatialTemporalIntegration.txt
+/home/psychorig3/psycho5/paramfiles/stimulus_lookup.txt
+/home/psychorig3/psycho5/paramfiles/view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 1
+genotype = Nathan_IsoD1
+conditions = 
+box temperature = 36
+rig name = psychorig3
+run number = 2
+COMMENTS BY HAND: 
+*********
+1660071253.786 CLOSE DOWN

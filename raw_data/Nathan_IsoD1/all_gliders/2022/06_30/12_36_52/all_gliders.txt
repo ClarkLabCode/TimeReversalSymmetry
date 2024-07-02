@@ -1,0 +1,36 @@
+PARAMS	32														
+EPOCHS	15														
+Stimulus.epochName	Int	sineR	sineL	div+R	div+L	div-R	div-L	conv+R	conv+L	conv-R	conv-L	2pt+R	2pt+L	2pt-R	2pt-L	elbow+L	elbow+R	elbow-L	elbow-R
+Stimulus.stimtype	2	2	2	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8
+Stimulus.duration	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60
+Stimulus.framesPerUp	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.whichGlid	0	0	0	1	1	1	1	2	2	2	2	3	3	3	3	4	4	4	4
+Stimulus.updateRate	0	0	0	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60
+Stimulus.pixX	0	0	0	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+Stimulus.diagDirec	0	0	0	1	-1	1	-1	1	-1	1	-1	1	-1	1	-1	1	-1	1	-1
+Stimulus.pol	0	0	0	1	1	-1	-1	1	1	-1	-1	1	1	-1	-1	1	1	-1	-1
+Stimulus.reseed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.mLum	0	0	0	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
+Stimulus.contrast	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.lumL	0.5	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.lumR	0.5	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.contrastL	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.contrastR	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velocityL	120	480	-480	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velocityR	120	480	-480	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.lambdaL	30	30	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.lambdaR	30	30	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.twoEyes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.wnCL	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.wnCR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.numDeg	5	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velSTDL	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velSTDR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.wnUpRateL	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.wnUpRateR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velUpRateL	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.velUpRateR	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.stimUpRateL	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.stimUpRateR	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.ordertype	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+Stimulus.repeats	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1

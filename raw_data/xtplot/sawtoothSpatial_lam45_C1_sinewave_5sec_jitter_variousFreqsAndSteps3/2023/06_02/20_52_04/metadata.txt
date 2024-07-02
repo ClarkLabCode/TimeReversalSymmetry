@@ -1,0 +1,16 @@
+2023\06_02\20_52_04
+D:\psycho5\paramfiles\sawtoothSpatial\sawtoothSpatial_lam45_C1_sinewave_5sec_jitter_variousFreqsAndSteps3.txt
+D:\psycho5\paramfiles\stimulus_lookup.txt
+D:\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 0
+genotype = xtplot
+conditions = 
+box temperature = 0
+rig name = yourRigsName
+run number = 1
+COMMENTS BY HAND: 
+*********
+ 28508.494 CLOSE DOWN

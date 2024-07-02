@@ -1,0 +1,16 @@
+2023\05_31\20_47_14
+D:\psycho5\paramfiles\sawtoothSpatial\sawtoothSpatial_stat_mov_lam45_C1_sinewave_5sec_moreVels_2_numDeg1.txt
+D:\psycho5\paramfiles\stimulus_lookup.txt
+D:\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 0
+genotype = xtplot
+conditions = 
+box temperature = 0
+rig name = yourRigsName
+run number = 18
+COMMENTS BY HAND: 
+*********
+ 20626.068 CLOSE DOWN

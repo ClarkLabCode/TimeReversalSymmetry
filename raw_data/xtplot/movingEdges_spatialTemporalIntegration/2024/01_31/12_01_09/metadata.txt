@@ -1,0 +1,16 @@
+2024\01_31\12_01_09
+D:\psycho5\paramfiles\Nathan\movingEdges_spatialTemporalIntegration.txt
+D:\psycho5\paramfiles\stimulus_lookup.txt
+D:\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 0
+genotype = xtplot
+conditions = 
+box temperature = 0
+rig name = yourRigsName
+run number = 1
+COMMENTS BY HAND: 
+*********
+160729.254 CLOSE DOWN

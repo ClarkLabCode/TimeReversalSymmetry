@@ -1,0 +1,16 @@
+2024/02_10/16_01_17
+/home/psychorig3/psycho5/paramfiles/Nathan/Uneven Square Grating/UnevenSquareGratingScreen_60px_medium_1s.txt
+/home/psychorig3/psycho5/paramfiles/stimulus_lookup.txt
+/home/psychorig3/psycho5/paramfiles/view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 1
+genotype = Nathan_IsoD1
+conditions = 
+box temperature = 36
+rig name = psychorig3
+run number = 2
+COMMENTS BY HAND: 
+*********
+1707600096.143 CLOSE DOWN

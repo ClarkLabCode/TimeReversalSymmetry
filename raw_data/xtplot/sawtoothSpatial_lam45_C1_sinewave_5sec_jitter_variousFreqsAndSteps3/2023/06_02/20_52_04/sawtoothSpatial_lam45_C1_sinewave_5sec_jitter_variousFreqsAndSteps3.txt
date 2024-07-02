@@ -1,0 +1,18 @@
+PARAMS	11														
+EPOCHS	5														
+Stimulus.stimtype	10056	10019	10019	10056	10056	10056	10056	10056	10056	10056	10056	10056	10056	10056	10056
+Stimulus.epochName	Gray Interleave	sine	sine	rampUp	rampDown	rampUp	rampDown	rampUp	rampDown	rampUp	rampDown	rampUp	rampDown	rampUp	rampDown
+Stimulus.ordertype	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+Stimulus.repeats	1	1	1	5	5	5	5	5	5	5	5	5	5	5	5
+Stimulus.duration	120	15	15	120	120	120	120	120	120	120	120	120	120	120	120
+Stimulus.lambda	45	30	30	45	45	45	45	45	45	45	45	45	45	45	45
+Stimulus.numDeg	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.framesPerUp	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.twoEyes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.contrast	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.mlum	0.5	0	0	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
+Stimulus.polarity	1	0	0	1	-1	1	-1	1	-1	1	-1	1	-1	1	-1
+Stimulus.lum	0	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.temporalFrequency	0	16	-16	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.jitterFreqHz	0	0	0	0	0	20	20	30	30	40	40	50	50	60	60
+Stimulus.jitterStepDeg	0	0	0	5	5	5	5	5	5	5	5	5	5	5	5

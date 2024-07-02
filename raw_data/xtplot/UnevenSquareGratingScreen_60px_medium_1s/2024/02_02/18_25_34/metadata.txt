@@ -1,0 +1,16 @@
+2024\02_02\18_25_34
+D:\psycho5\paramfiles\Nathan\Uneven Square Grating\UnevenSquareGratingScreen_60px_medium_1s.txt
+D:\psycho5\paramfiles\stimulus_lookup.txt
+D:\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 0
+genotype = xtplot
+conditions = 
+box temperature = 0
+rig name = yourRigsName
+run number = 1
+COMMENTS BY HAND: 
+*********
+ 75729.870 CLOSE DOWN

@@ -1,0 +1,16 @@
+2019\11_13\12_54_15
+C:\Users\labuser\Documents\psycho5\paramfiles\sawtoothSpatial\sawtoothSpatial_stat_mov_lam45_C1_sinewave_5sec_moreVels_2_numDeg1.txt
+C:\Users\labuser\Documents\psycho5\paramfiles\stimulus_lookup.txt
+C:\Users\labuser\Documents\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 1
+genotype = w_+;+;+(empty single)
+conditions = 
+box temperature = 36
+rig name = psychoRig3
+run number = 1
+COMMENTS BY HAND: 
+*********
+4823201.576 CLOSE DOWN

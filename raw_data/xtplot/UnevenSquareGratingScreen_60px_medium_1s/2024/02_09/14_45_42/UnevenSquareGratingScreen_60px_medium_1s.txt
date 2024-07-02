@@ -1,0 +1,19 @@
+PARAMS	22																				
+EPOCHS	8																				
+Stimulus.epochName	Gray	30_1_r	30_1_l	30_3_r	30_3_l	30_5_r	30_5_l	60_1_r	60_1_l	60_3_r	60_3_l	60_5_r	60_5_l	120_1_r	120_1_l	120_3_r	120_3_l	120_5_r	120_5_l
+Stimulus.stimtype	10011	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003	24003
+Stimulus.ordertype	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+Stimulus.duration	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60	60
+Stimulus.repeats	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.numDeg	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.framesPerUp	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.lum	0.5
+Stimulus.contrast	0
+Stimulus.velocity	0	30	-30	30	-30	30	-30	60	-60	60	-60	60	-60	120	-120	120	-120	120	-120
+Stimulus.pol	0
+Stimulus.distBetweenEdges	45
+Stimulus.temporalFrequency	0
+Stimulus.lambda	0
+Stimulus.backgroundLum	0.5
+Stimulus.barWidth1	0	5	5	15	15	25	25	5	5	15	15	25	25	5	5	15	15	25	25
+Stimulus.barWidth2	0	25	25	15	15	5	5	25	25	15	15	5	5	25	25	15	15	5	5

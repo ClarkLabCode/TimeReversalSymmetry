@@ -1,0 +1,16 @@
+2020\10_29\16_07_04
+C:\Users\labuser\Documents\psycho5\paramfiles\sawtoothSpatial\sawtoothSpatial_lam45_C1_sinewave_5sec_jitter_variousFreqsAndSteps3.txt
+C:\Users\labuser\Documents\psycho5\paramfiles\stimulus_lookup.txt
+C:\Users\labuser\Documents\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 1
+genotype = IsoD1_margarida
+conditions = 
+box temperature = 36
+rig name = psychoRig3
+run number = 1
+COMMENTS BY HAND: 
+*********
+629159.783 CLOSE DOWN

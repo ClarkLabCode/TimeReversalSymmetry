@@ -1,0 +1,16 @@
+2024/04_26/14_36_21
+/home/psychorig3/psycho5/paramfiles/Nathan/movingEdges/movingEdges_nosymm_1.txt
+/home/psychorig3/psycho5/paramfiles/stimulus_lookup.txt
+/home/psychorig3/psycho5/paramfiles/view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 1
+genotype = Nathan_IsoD1
+conditions = 
+box temperature = 36
+rig name = psychorig3
+run number = 1
+COMMENTS BY HAND: 
+*********
+1714158919.861 CLOSE DOWN

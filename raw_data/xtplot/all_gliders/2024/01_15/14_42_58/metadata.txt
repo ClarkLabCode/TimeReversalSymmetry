@@ -1,0 +1,16 @@
+2024\01_15\14_42_58
+C:\Users\ClarkLab\Documents\psycho5data\Nathan_IsoD1\all_gliders\2022\06_24\15_01_49\all_gliders.txt
+C:\Users\ClarkLab\Documents\psycho5\paramfiles\stimulus_lookup.txt
+C:\Users\ClarkLab\Documents\psycho5\paramfiles\view_locs.txt
+xscales = 1  1  1  1  1
+yscales = 1  1  1  1  1
+tscales = 1  1  1  1  1
+useDLP = 0
+genotype = xtplot
+conditions = 
+box temperature = 0
+rig name = yourRigsName
+run number = 1
+COMMENTS BY HAND: 
+*********
+475922.879 CLOSE DOWN

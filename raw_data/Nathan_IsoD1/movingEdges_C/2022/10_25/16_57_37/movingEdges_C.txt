@@ -1,0 +1,25 @@
+PARAMS	22		stim1 = 		stim2 = 														
+EPOCHS	8		[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]		[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]														
+Stimulus.epochName	Gray	sine_r	sine_l	Stim1 	Stim1 x	Stim1 t	Stim1 tx	Stim1 c	Stim1 cx	Stim1 ct	Stim1 xct	Stim2 	Stim2 x	Stim2 t	Stim2 tx	Stim2 c	Stim2 cx	Stim2 ct	Stim2 xct
+Stimulus.stimtype	10011	10019	10019	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002	24002
+Stimulus.ordertype	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+Stimulus.duration	60	30	30	180	180	180	180	180	180	180	180	180	180	180	180	180	180	180	180
+Stimulus.repeats	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.framesPerUp	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.stimulus	0	0	0	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 -1 -1 1 -1 1 -1 -1 1 -1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]	[1 1 1 1 1 -1 -1 1 -1 1 -1 1 -1 -1 1 1]
+Stimulus.shape	0	0	0	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]	[2 4]
+Stimulus.xtess	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.ttess	0	0	0	12	12	12	12	12	12	12	12	12	12	12	12	12	12	12	12
+Stimulus.xflip	0	0	0	0	1	0	1	0	1	0	1	0	1	0	1	0	1	0	1
+Stimulus.tflip	0	0	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	1	1
+Stimulus.cflip	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1
+Stimulus.lum	0.5	0.5	0.5																
+Stimulus.contrast	0	1	1																
+Stimulus.velocity	0																		
+Stimulus.pol	0																		
+Stimulus.distBetweenEdges	45																		
+Stimulus.temporalFrequency	0	16	-16																
+Stimulus.lambda	0	30	30																
+Stimulus.backgroundLum	0.5																		
+Stimulus.numDeg	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.twoEyes	0	0	0																
