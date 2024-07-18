@@ -70,8 +70,6 @@ def train_run(config, network_model, transformed_dataset, loss_function):
         f.write(f'lr: {lr}\n')
         f.write(f'training data path: {training_data_path}\n')
 
-    start_time_fold = time.time()
-
     # Define data loaders for training
     trainloader = torch.utils.data.DataLoader(
                       transformed_dataset, 
