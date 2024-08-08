@@ -67,9 +67,9 @@ end
 figLeg={['$S_{' num2str(number_for_display) '}$ '], ['$_\Theta S_{' num2str(number_for_display) '}$ '], ['$_\Gamma S_{' num2str(number_for_display) '}$ '], ['$_{\Gamma\Theta} S_{' num2str(number_for_display) '}$ ']};
 
 %%
-TFlipFigLeg = {['$S_{' num2str(number_for_display) '}$'], ['$_\Gamma S_{' num2str(number_for_display) '}$']};
-CFlipFigLeg = {['$S_{' num2str(number_for_display) '}$'], ['$_\Theta S_{' num2str(number_for_display) '}$']};
-CTFlipFigLeg = {['$S_{' num2str(number_for_display) '}$'], ['$_\Gamma S_{' num2str(number_for_display) '}$']};
+TFlipFigLeg = {['$S_{' num2str(number_for_display) '}$, $_\Theta S_{' num2str(number_for_display) '}$'], ['$_\Gamma S_{' num2str(number_for_display) '}$, $_{\Gamma\Theta} S_{' num2str(number_for_display) '}$']};
+CFlipFigLeg = {['$S_{' num2str(number_for_display) '}$, $_\Gamma S_{' num2str(number_for_display) '}$'], ['$_\Theta S_{' num2str(number_for_display) '}$, $_{\Gamma\Theta} S_{' num2str(number_for_display) '}$']};
+CTFlipFigLeg = {['$S_{' num2str(number_for_display) '}$, $_{\Gamma\Theta} S_{' num2str(number_for_display) '}$'], ['$_\Gamma S_{' num2str(number_for_display) '}$, $_\Theta S_{' num2str(number_for_display) '}$']};
 
 TUnflippedIndmat = indmat(:,[1 3],:);
 TFlippedIndmat = indmat(:,[2 4],:);
@@ -292,11 +292,11 @@ end
 
 for i = [5 6 7]
     xlim(ax{i}, [0.7, 2.3]);
-    ax{i}.XAxis.FontSize= 14;
-    ax{i}.XLabel.FontSize = 14;
+    ax{i}.XAxis.FontSize= 12;
+    ax{i}.XLabel.FontSize = 12;
     ax{i}.Title.FontSize = 12;
     ax{i}.YAxis.FontSize= 12;
-    ax{i}.YLabel.FontSize = 14;
+    ax{i}.YLabel.FontSize = 12;
 
 
     %limits = ylim(ax{i});
@@ -311,10 +311,10 @@ for i = [1 2 3 4]
     patch(ax{i}, [0 0 3 3], [-1*max_lim, 1*max_lim, 1*max_lim, -1*max_lim], [0.3 0.3 0.3], 'FaceAlpha',0.2, 'LineStyle', 'none')
     plot(ax{i}, [0 1], [-0.75 * max_lim, -0.75 * max_lim], 'black', 'LineWidth', 4);
     text(ax{i}, 0.5, -0.5 * max_lim, '1s', 'FontSize', 12, 'HorizontalAlignment', 'center');
-    ax{i}.Title.FontSize = 15;
+    ax{i}.Title.FontSize = 12;
 
     ax{i}.YAxis.FontSize= 12;
-    ax{i}.YLabel.FontSize = 14;
+    ax{i}.YLabel.FontSize = 12;
 
 
     ylim(ax{i}, [-1*max_lim, max_lim])
@@ -371,8 +371,8 @@ for i = 5:7
             position_data = get(ax{i}, 'Position');
             position_data(2) = position_data(2) + position_data(4) * 0.02 * (7-i);
             position_data(4) = position_data(4) * 0.7;
-            position_data(1) = position_data(1) + position_data(3) * 0.15;
-            position_data(3) = position_data(3) * 0.85;
+            position_data(1) = position_data(1) + position_data(3) * 0.2;
+            position_data(3) = position_data(3) * 0.8;
             set(ax{i}, 'Position', position_data);
 end
 
